@@ -11,9 +11,10 @@ manipulation; SQL for querying large datasets; and R for evaluation of the data
 - As well as get a great introduction to the world of auditing.
 ## 📽 What Am I Working On ?
 Currently I'm:
-- Grinding Leetcode
+- Grinding Hackerrank & Leetcode
 - Studying to be a Chess Grandmaster
 - Trying new frameworks and languages
+- Learning Japanese
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,react,raspberrypi,swift,postgres,mongodb,androidstudio,deno,go,r)](https://skillicons.dev)
