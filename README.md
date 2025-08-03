@@ -11,8 +11,8 @@ manipulation; SQL for querying large datasets; and R for evaluation of the data
 - As well as get a great introduction to the world of auditing.
 ## 📽 What Am I Working On ?
 Currently I'm:
-- Grinding Hackerrank & Leetcode
-- Studying to be a Chess Grandmaster
+- Grinding Hackerrank & Leetcode looking for SWE internships
+- Studying to be a Chess Grandmaster (currently top %1)
 - Trying new frameworks and languages
 - Learning Japanese
 ## 🛠 Skills
