@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Hello my name is Tanyaradzwa Gwaze, currently a sophomore computer scientist at the University of Houston, expected to gradute May 2027. I started coding as a senior in highschool and have not stopped since ! My dream job in tech is to become an systems engineer for NASA and help go to the moon !
+Hello my name is Tanyaradzwa Gwaze, currently a junior computer scientist at the University of Houston, expected to gradute May 2027. I started coding as a senior in highschool and have not stopped since ! My dream job in tech is to become an systems engineer for NASA and help go to the moon !
 
 💻 Experience:
 -
