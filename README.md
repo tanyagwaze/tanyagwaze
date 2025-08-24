@@ -17,7 +17,7 @@ Currently I'm:
 - Learning Japanese
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,raspberrypi,linux,swift,postgres,mongodb,androidstudio,deno,go,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,react,raspberrypi,linux,swift,postgres,mongodb,aws,docker,go,r)](https://skillicons.dev)
 
 ## 🔗 My Linkedin
 
